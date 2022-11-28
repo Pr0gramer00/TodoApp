@@ -13,6 +13,7 @@ class App extends Component {
 
         
     }
+    
     componentDidMount(){
         let data = [];
         if(localStorage.data){
