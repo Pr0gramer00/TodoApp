@@ -1,0 +1,10 @@
+.btn {
+   margin-left: 50px;
+   margin-right: 40px;
+}
+.complete {
+    text-decoration: line-through;
+}
+.incomplete {
+    text-decoration: none;
+}
